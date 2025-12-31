@@ -1,0 +1,12 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+exprshell
+vendor/
+.vscode/
+.idea/
+.DS_Store
+*.log
+tmp/
